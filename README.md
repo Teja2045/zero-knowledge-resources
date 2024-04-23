@@ -13,6 +13,8 @@ Resources to Learn Zero Knowledge proofs
 
 - [RISC0 Example and explanation](https://youtu.be/OtV61O_kiQY?si=pJWQxpI5sjW394Ne)
 
+- [circuits and testing](https://youtu.be/60lkR8DZKUA?si=VgWW7nVhOLqGxp6A)
+
 
 #### RISCO
 
