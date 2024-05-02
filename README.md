@@ -24,3 +24,8 @@ Resources to Learn Zero Knowledge proofs
 #### Blogs
 
 -  [under the hood of Zk-SNARK (p blogs), by crypto fairy](https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-2843b0d1558b)
+
+
+## Applications
+
+-  [Compression algorithm](https://sindri.app/docs/how-to-guides/frameworks/gnark/)
