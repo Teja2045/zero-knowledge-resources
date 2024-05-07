@@ -29,3 +29,7 @@ Resources to Learn Zero Knowledge proofs
 ## Applications
 
 -  [Compression algorithm](https://sindri.app/docs/how-to-guides/frameworks/gnark/)
+
+## Complete course
+
+-  [*ZK Book (rareskills)](https://www.rareskills.io/zk-book)
