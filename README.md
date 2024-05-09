@@ -33,3 +33,10 @@ Resources to Learn Zero Knowledge proofs
 ## Complete course
 
 -  [*ZK Book (rareskills)](https://www.rareskills.io/zk-book)
+
+
+## Repos
+
+-   [some circuits implementations](https://github.com/Teja2045/GNARK-Circuits)
+-   [Ethan Buchman COSMOS SDK ZK signature verification](https://github.com/informalsystems/cosmos-sdk/blob/gnark50/simapp/gnarkcli/README.md)
+-   [A simple transfer transaction application](https://github.com/Teja2045/ZK-Rollup)
