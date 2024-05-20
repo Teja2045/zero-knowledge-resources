@@ -43,4 +43,5 @@ Resources to Learn Zero Knowledge proofs
 
 ## IBC
 
--  [Snark Accounts](https://hackmd.io/xRlEU2WPQtmXhN00GQSSTQ?view#)
+-  [IBC Snark Accounts](https://hackmd.io/xRlEU2WPQtmXhN00GQSSTQ?view#)
+-  [Ethan Buchman snark account](https://github.com/informalsystems/cosmos-sdk/blob/gnark50/simapp/gnarkcli/README.md)
