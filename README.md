@@ -40,3 +40,7 @@ Resources to Learn Zero Knowledge proofs
 -   [some circuits implementations](https://github.com/Teja2045/GNARK-Circuits)
 -   [Ethan Buchman COSMOS SDK ZK signature verification](https://github.com/informalsystems/cosmos-sdk/blob/gnark50/simapp/gnarkcli/README.md)
 -   [A simple transfer transaction application](https://github.com/Teja2045/ZK-Rollup)
+
+## IBC
+
+-  [Snark Accounts](https://hackmd.io/xRlEU2WPQtmXhN00GQSSTQ?view#)
