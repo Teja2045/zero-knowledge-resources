@@ -45,3 +45,5 @@ Resources to Learn Zero Knowledge proofs
 
 -  [IBC Snark Accounts](https://hackmd.io/xRlEU2WPQtmXhN00GQSSTQ?view#)
 -  [Ethan Buchman's snark account implementation (cosmos SDK)](https://github.com/informalsystems/cosmos-sdk/blob/gnark50/simapp/gnarkcli/README.md)
+-  [my ibc designs](https://github.com/Teja2045/system-designs/tree/main/zk-ibc)
+-  [my draft spec](https://hackmd.io/3kBTYCo1RDyo_Qi0aAc59A?both)
